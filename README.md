@@ -16,17 +16,15 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 You will also need to have the software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html).
 
+Importing necessary libraries.
 
-## Run
-In a terminal or command window, navigate to the top-level project directory `Census-Income-Prediction/` (that contains this README) and run one of the following commands:
+Importing dataset from GitHub.
 
-```bash
-ipython notebook income_prediction.ipynb
-```  
-or
-```bash
-jupyter notebook income_prediction.ipynb
-```
+Exploratory Data Analysis (EDA).
+
+Data Preprocessing & Feature Engineering.
+
+Model building and Saving.
 
 This will open the iPython Notebook software and project file in your browser.
 
